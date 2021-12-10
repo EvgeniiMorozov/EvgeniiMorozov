@@ -1,10 +1,8 @@
-### Hi there 👋
-
 ## Header
 
-## About me
+### About me
 
-## Languages and tools
+### Languages and tools
 
 ![Python](https://img.shields.io/badge/Python-0047AB?style=for-the-badge&logo=python&logoColor=FFFF00)
 ![SQL](https://img.shields.io/badge/SQL-F5F5F5?style=for-the-badge&logo=postgresql&logoColor=0047AB)
@@ -15,7 +13,8 @@
 
 ### Contacts
 
-
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/emorozov1101)
+<!-- [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/alexeyshpavda) -->
 
 <!--
 **EvgeniiMorozov/EvgeniiMorozov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
