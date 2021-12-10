@@ -14,6 +14,16 @@
 ### Contacts
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/emorozov1101)
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgeniiMorozov)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=gruvbox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiMorozov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 <!-- [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/alexeyshpavda) -->
 
 <!--
