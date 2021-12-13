@@ -15,7 +15,11 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/emorozov1101)
 
+---
 
+![CodeWars](https://www.codewars.com/users/EvgeniiMorozov/badges/large)
+
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgeniiMorozov)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=gruvbox)
 
