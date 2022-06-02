@@ -1,29 +1,32 @@
-## EvgeniiMorozov
+# Evgenii Morozov
 
-#### I’m junior Python backend developer
+## I’m junior Python backend developer
 
-### 🛠️ Languages and tools
+___
+
+## 🛠️ Languages and tools
 
 ![Python](https://img.shields.io/badge/Python-0047AB?style=for-the-badge&logo=python&logoColor=FFFF00)
 ![SQL](https://img.shields.io/badge/SQL-F5F5F5?style=for-the-badge&logo=postgresql&logoColor=0047AB)
 ![JS](https://img.shields.io/badge/Javascript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)
-![Django](https://img.shields.io/badge/Django-004524?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-004524?style=for-the-badge&logo=django&logoColor=#092E20)
 ![FastAPI](https://img.shields.io/badge/fastapi-F5F5F5?style=for-the-badge&logo=fastapi&logoColor=009A63)
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-778877?style=for-the-badge&logo=sql&logoColor=009A63)
 
 ### Contacts
 
 [![Telegram](https://img.shields.io/badge/-@emorozov1101-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/emorozov1101)
+[![Gmail](https://img.shields.io/badge/-emorozov1101@gmail.com-090909?style=for-the-badge&logo=gmail&logoColor=#EA4335)](emorozov1101@gmail.com)
 
----
+___
 
 ![CodeWars](https://www.codewars.com/users/EvgeniiMorozov/badges/large)
+___
 
----
+![EvgeniiMorozov's GitHub stats](https://github-readme-stats.vercel.app/api?username=evgeniimorozov&show_icons=true&theme=cobalt&hide=contribs,prs,issues)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgeniiMorozov)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiMorozov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiMorozov&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
