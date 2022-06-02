@@ -2,7 +2,7 @@
 
 #### I’m junior Python backend developer
 
-### Languages and tools
+### 🛠️ Languages and tools
 
 ![Python](https://img.shields.io/badge/Python-0047AB?style=for-the-badge&logo=python&logoColor=FFFF00)
 ![SQL](https://img.shields.io/badge/SQL-F5F5F5?style=for-the-badge&logo=postgresql&logoColor=0047AB)
@@ -13,7 +13,7 @@
 
 ### Contacts
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/emorozov1101)
+[![Telegram](https://img.shields.io/badge/-@emorozov1101-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/emorozov1101)
 
 ---
 
