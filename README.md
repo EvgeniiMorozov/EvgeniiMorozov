@@ -1,6 +1,8 @@
 # Evgenii Morozov
 
-## I’m junior Python backend developer
+## About me
+
+I’m junior Python backend developer
 
 ___
 
