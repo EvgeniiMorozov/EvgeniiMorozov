@@ -25,11 +25,7 @@ ___
 
 ![EvgeniiMorozov's GitHub stats](https://github-readme-stats.vercel.app/api?username=evgeniimorozov&show_icons=true&theme=cobalt&hide=contribs,prs,issues)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiMorozov&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 <!-- [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/alexeyshpavda) -->
 
